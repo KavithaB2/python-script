@@ -14,3 +14,4 @@ variable "subnet_cidr" {
 # creating cidr block for 2nd subnet
 variable "subnet1_cidr" {
   default = "10.0.2.0/24"
+}
